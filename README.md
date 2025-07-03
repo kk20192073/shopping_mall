@@ -1,3 +1,24 @@
-[import 'dartio';.txt](https://github.com/user-attachments/files/20960654/import.dartio.txt)
+ 🛒 Dart 장바구니 콘솔 프로그램
+
+이 프로젝트는 Dart 언어로 작성된 간단한 **콘솔 기반 장바구니 프로그램**입니다.  
+사용자는 상품을 보고, 장바구니에 담고, 총 가격을 확인할 수 있습니다.
+
+
+
+📌 기능
+
+1. 상품 목록 보기
+2. 장바구니에 상품 담기
+3. 총 가격 보기
+4. 프로그램 종료
+
+
+
+ 🧾 사용 방법
+
+ 실행
+
+bash
+dart run main.dart
 
 
