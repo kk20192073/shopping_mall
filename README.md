@@ -17,8 +17,6 @@
  🧾 사용 방법
 
  실행
-
-bash
 dart run main.dart
 
 
